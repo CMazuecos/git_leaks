@@ -2,7 +2,7 @@
 Creamos un buscador de leaks en commits de github con un formato ETL (código comentado en el programa), extraemos los datos, los modificamos y acabamos cargándolos en un archivo csv.
 ### Archivos necesitados
 - 'git_leaks.zip': archivo zip con todos lo necesario para la ejecución del programa
-- Contenido git_leaks: 'requirements.txt', 'git_leaks.py' y la carpeta skale-manager
+- Contenido 'git_leaks.zip': 'requirements.txt', 'git_leaks.py' y la carpeta skale-manager
 ### Output
 - Archivo csv con los commits.
 ### Forma de ejecución del programa
